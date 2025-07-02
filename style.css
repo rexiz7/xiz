@@ -103,9 +103,9 @@ h1 {
 }
 
 .mini-badge {
-  width: 10px;
-  height: 10px;
-  object-fit: contain;
+  width: 28px;
+  height: 28px;
+  transition: transform 0.3s ease, filter 0.3s ease;
 }
 
 .badge {
