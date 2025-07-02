@@ -103,8 +103,8 @@ h1 {
 }
 
 .mini-badge {
-  width: 19px;
-  height: 19px;
+  width: 17px;
+  height: 17px;
   transition: transform 0.3s ease, filter 0.3s ease;
 }
 
