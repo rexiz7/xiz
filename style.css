@@ -102,13 +102,6 @@ h1 {
   margin-bottom: 15px;
 }
 
-.balance {
-  font-size: 10px;
-  display: inline-flex;
-  gap: 6px;
-  margin-bottom: 15px;
-}
-
 .badge {
   width: 28px;
   height: 28px;
