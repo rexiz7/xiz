@@ -102,12 +102,6 @@ h1 {
   margin-bottom: 15px;
 }
 
-.mini-badge {
-  width: 17px;
-  height: 17px;
-  transition: transform 0.3s ease, filter 0.3s ease;
-}
-
 .badge {
   width: 28px;
   height: 28px;
