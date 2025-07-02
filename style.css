@@ -102,6 +102,14 @@ h1 {
   margin-bottom: 15px;
 }
 
+.mini-badge {
+  width: 19px !important;
+  height: 19px !important;
+  max-width: 19px !important;
+  max-height: 19px !important;
+  object-fit: contain;
+}
+
 .badge {
   width: 28px;
   height: 28px;
